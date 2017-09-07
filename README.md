@@ -1,1 +1,1 @@
-# Ogrodje-za-navidezno-resnicnost-z-uporabo-mobilnih-naprav-in-senzorja-Kinect
+# Cardboard VR - Kinect
